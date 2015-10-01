@@ -10,8 +10,8 @@
 //  VERSION INFO
 //
 VS_VIRSION_INFO VERSIONINFO
- FILEVERSION    0,0,1,0
- PRODUCTVERSION 0,0,1
+ FILEVERSION    0,0,2,0
+ PRODUCTVERSION 0,0,2
  FILEFLAGSMASK  0x3FL
  FILEFLAGS      0x0L
  FILEOS         VOS__WINDOWS32
@@ -22,13 +22,13 @@ VS_VIRSION_INFO VERSIONINFO
 	{
         BLOCK "041103A4"
 		{
-            VALUE "FileDescription",  "フィールド分離 フィルタ Plugin for AviUtl 0.98以降\0"
-            VALUE "FileVersion",      "0.0.1.0\0"
+            VALUE "FileDescription",  "フィールド分離 フィルタ Plugin for AviUtl 0.98d以降\0"
+            VALUE "FileVersion",      "0.0.2.0\0"
             VALUE "InternalName",     "field separate\0"
             VALUE "LegalCopyright",   "(C) MakKi\0"
             VALUE "OriginalFilename", "field_sp.aup\0"
             VALUE "ProductName",      "フィールド分離\0"
-            VALUE "ProductVersion",   "0.01\0"
+            VALUE "ProductVersion",   "0.02\0"
 		}
 	}
     BLOCK "VarFileInfo"
